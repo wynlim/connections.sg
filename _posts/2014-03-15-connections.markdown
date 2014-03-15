@@ -28,6 +28,7 @@ layout: connections
 * [AngelList Singapore](https://angel.co/singapore)
 * [represent.sg](http://represent.sg/)
 * [designers & studios](http://bundlr.com/b/singapore-based-designers-studios)
+* [webuild.sg](http://webuild.sg/)
 
 ### spaces
 * [blk71](http://www2.blk71.com/)

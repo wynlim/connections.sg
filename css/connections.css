@@ -856,6 +856,11 @@ body {
   font-size: 16px;
   line-height: 1.6em;
 }
+h1,
+h2,
+h3 {
+  font-weight: normal;
+}
 a {
   text-decoration: none;
   color: #b70246;
@@ -888,6 +893,9 @@ a {
   padding-bottom: 8px;
   line-height: 1.3em;
   border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+footer {
+  font-size: 14px;
 }
 @media (max-width: 992px) {
   .page-content {

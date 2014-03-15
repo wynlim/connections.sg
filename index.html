@@ -1,5 +1,8 @@
-<html>
-  <body>
-    kicking off connections.sg
-  </body>
-</html>
+---
+layout: connections
+title: connections dot sg
+---
+
+{% for post in site.posts %}
+	{{ post.content }}
+{% endfor %}

@@ -9,6 +9,7 @@ layout: connections
 ### jobs
 * [88 Gong](http://88-gong.com/)
 * [DiscoverMatch](https://discovermatch.com/jobs-list/)
+* [Startup Jobs Asia](http://startupjobs.asia/)
 
 ### groups &amp; meetups
 * [Agile & DevOps SG](https://www.facebook.com/groups/agiledevopssg/)
@@ -36,6 +37,7 @@ layout: connections
 * [Singapore Linux Meetup Group](http://www.meetup.com/sg-linux/)
 * [Singapore MongoDB User Group Singapore](https://www.facebook.com/groups/mongosg/)
 * [Singapore Node.JS User Group](https://www.facebook.com/groups/sg.nodejs/)
+* [Singapore PHP User Group](https://www.facebook.com/groups/sghypertextpreprocessors/)
 * [Singapore Python User Group](https://www.facebook.com/groups/pythonsg/)
 * [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/)
 * [Singapore WordPress User Group](https://www.facebook.com/wordpress.sg)

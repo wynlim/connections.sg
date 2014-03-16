@@ -1,7 +1,7 @@
 connections.sg
 ==============
 
-connections.sg came into life sometime during Mar 2011 after the realisation that even though Singapore is a really small country with an even smaller startup ecosystem, people still generally had a difficult time finding the right connections – to people, spaces and resources. 
+[connections.sg](http://connections.sg) came into life sometime during Mar 2011 after the realisation that even though Singapore is a really small country with an even smaller startup ecosystem, people still generally had a difficult time finding the right connections – to people, spaces and resources. 
 
 I built it on drupal with custom fields and RSS thinking it would be easier to maintain. I was wrong. 
 

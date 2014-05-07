@@ -20,6 +20,7 @@ layout: connections
 * [Creative Mornings](https://www.facebook.com/cmsingapore)
 * [DataScience SG](http://www.meetup.com/DataScience-SG-Singapore/)
 * [DevOps Singapore](http://www.meetup.com/devops-singapore/)
+* [DrupalCamp Singapore](http://www.drupalcamp.sg/)
 * [Front End Developers Singapore](https://www.facebook.com/groups/frontendsingapore/)
 * [Hackerspace](http://hackerspace.sg/)
 * [Hadoop.SG](http://www.meetup.com/Hadoop-SG/)

@@ -52,6 +52,7 @@ layout: connections
 * [represent.sg](http://represent.sg/)
 * [designers & studios](http://bundlr.com/b/singapore-based-designers-studios)
 * [webuild.sg](http://webuild.sg/)
+* [engineers.sg](https://www.youtube.com/playlist?list=PLECEw2eFfW7hYMucZmsrryV_9nIc485P1)
 
 ### spaces
 * [blk71](http://www2.blk71.com/)

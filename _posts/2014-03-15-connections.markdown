@@ -21,6 +21,7 @@ layout: connections
 * [DataScience SG](http://www.meetup.com/DataScience-SG-Singapore/)
 * [DevOps Singapore](http://www.meetup.com/devops-singapore/)
 * [Front End Developers Singapore](https://www.facebook.com/groups/frontendsingapore/)
+* [Golang.sg](https://www.facebook.com/groups/golang.sg/)
 * [Hackerspace](http://hackerspace.sg/)
 * [Hadoop.SG](http://www.meetup.com/Hadoop-SG/)
 * [HASKELL.SG](http://www.meetup.com/HASKELL-SG/)

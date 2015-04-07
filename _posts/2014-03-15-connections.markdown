@@ -33,6 +33,7 @@ layout: connections
 * [R User Group - Singapore (RUGS)](http://www.meetup.com/R-User-Group-SG/)
 * [RaspberryPI & Co Singapore](https://www.facebook.com/groups/raspberrypisingapore/)
 * [Singapore Android Developers](http://www.meetup.com/Singapore-Android-Developers/)
+* [Singapore Creative Coding Meetup](http://www.meetup.com/Singapore-Creative-Coding-Meetup/)
 * [Singapore Functional Programmers](http://groups.google.com/group/singapore-functional-programmers?pli=1)
 * [Singapore Geek Girls](http://www.sggeekgirls.com/)
 * [Singapore Linux Meetup Group](http://www.meetup.com/sg-linux/)

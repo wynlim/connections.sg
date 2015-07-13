@@ -46,6 +46,7 @@ layout: connections
 * [SingaporeJS](http://www.meetup.com/Singapore-JS/)
 * [Software Craftsmanship Singapore](http://www.meetup.com/Software-Craftsmanship-Singapore/)
 * [UXSG](https://www.facebook.com/home.php?sk=group_139152279432292)
+* [Singapore VR AR meetup](http://www.meetup.com/sgvrar/)
 
 ### resources
 * [@mengwong's list](http://mengwong.com/sg/capital/)

@@ -3,14 +3,14 @@ layout: connections
 title: connections dot sg
 ---
 
-{% for post in site.posts %}
-	{{ post.content }}
+{% for post in site.categories.index %}
+		{{ post.content }}
 {% endfor %}
 
 <footer>
-  <p>This is an effort to aggregate all things tech in Singapore. For the purpose of promoting synergy, connections and community spirit. Curated by <a href="http://winnielim.org">Winnie Lim</a>.</p>
+  <p>This is an effort to aggregate interestingness in Singapore. For the purpose of promoting synergy, connections and community spirit.
 
-  <p>This site is in constant evolution. Powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getbootstrap.com">bootstrap</a>, <a href="http://pages.github.com/">github pages</a> &amp; <a href="http://typekit.com">typekit</a>.</p>
+  <p>This site is in constant evolution. Powered by <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getbootstrap.com">bootstrap</a>, <a href="http://pages.github.com/">github pages</a>.</p>
 
   <p>Find out more or contribute on <a href="https://github.com/wynlim/connections.sg">Github</a>.</p>
 </footer>

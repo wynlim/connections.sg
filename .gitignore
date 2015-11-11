@@ -5,3 +5,6 @@
 /_posts/.DS_Store
 
 /_site/
+.sass-cache
+Gemfile.lock
+lists/.DS_Store

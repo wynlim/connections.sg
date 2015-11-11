@@ -1,77 +1,80 @@
 ---
 layout: connections
+category: index
 ---
-### events
-* [blk71 calendar](http://blk71.com/events.php)
-* [hackerspaceSG calendar](http://hackerspace.sg/calendar/)
-* [The List](http://thelist.sg/)
+### lists
 
-### jobs
-* [88 Gong](http://88-gong.com/)
-* [DiscoverMatch](https://discovermatch.com/jobs-list/)
-* [Startup Jobs Asia](http://startupjobs.asia/)
+* [thelist.sg](http://thelist.sg)
+* [a-list.sg: Singapore's definitive arts and culture guide](http://a-list.sg/)
+* [groups & meetups: mostly tech for now](/lists/meetups)
 
-### groups &amp; meetups
-* [Agile & DevOps SG](https://www.facebook.com/groups/agiledevopssg/)
-* [Agile Singapore](http://www.meetup.com/Agile-Singapore/)
-* [Arduino Community Singapore](https://www.facebook.com/groups/arduinosg/)
-* [AWS User Group Singapore](http://www.meetup.com/AWS-SG/)
-* [Creative Crew SG](https://www.facebook.com/groups/creativecrewsg/)
-* [Creative Mornings](https://www.facebook.com/cmsingapore)
-* [DataScience SG](http://www.meetup.com/DataScience-SG-Singapore/)
-* [DevOps Singapore](http://www.meetup.com/devops-singapore/)
-* [Front End Developers Singapore](https://www.facebook.com/groups/frontendsingapore/)
-* [Golang.sg](https://www.facebook.com/groups/golang.sg/)
-* [Hackerspace](http://hackerspace.sg/)
-* [Hadoop.SG](http://www.meetup.com/Hadoop-SG/)
-* [HASKELL.SG](http://www.meetup.com/HASKELL-SG/)
-* [iOS Dev Scout](https://www.facebook.com/groups/iosdevscout/)
-* [IxDA Singapore](http://www.meetup.com/IxDA-Singapore/)
-* [Meteor Singapore](http://www.meetup.com/Meteor-Singapore/)
-* [NodeBots Singapore](http://www.meetup.com/NodeBotsSingapore/)
-* [PUGS (Postgres Users Group Singapore)](http://www.meetup.com/PUGS-Postgres-Users-Group-Singapore/)
-* [R User Group - Singapore (RUGS)](http://www.meetup.com/R-User-Group-SG/)
-* [RaspberryPI & Co Singapore](https://www.facebook.com/groups/raspberrypisingapore/)
-* [Singapore Android Developers](http://www.meetup.com/Singapore-Android-Developers/)
-* [Singapore Creative Coding Meetup](http://www.meetup.com/Singapore-Creative-Coding-Meetup/)
-* [Singapore Functional Programmers](http://groups.google.com/group/singapore-functional-programmers?pli=1)
-* [Singapore Geek Girls](http://www.sggeekgirls.com/)
-* [Singapore Linux Meetup Group](http://www.meetup.com/sg-linux/)
-* [Singapore MongoDB User Group Singapore](https://www.facebook.com/groups/mongosg/)
-* [Singapore Node.JS User Group](https://www.facebook.com/groups/sg.nodejs/)
-* [Singapore PHP User Group](https://www.facebook.com/groups/sghypertextpreprocessors/)
-* [Singapore Python User Group](https://www.facebook.com/groups/pythonsg/)
-* [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/)
-* [Singapore WordPress User Group](https://www.facebook.com/wordpress.sg)
-* [SingaporeJS](http://www.meetup.com/Singapore-JS/)
-* [Software Craftsmanship Singapore](http://www.meetup.com/Software-Craftsmanship-Singapore/)
-* [UXSG](https://www.facebook.com/home.php?sk=group_139152279432292)
-* [Singapore VR AR meetup](http://www.meetup.com/sgvrar/)
+### books
 
-### resources
-* [@mengwong's list](http://mengwong.com/sg/capital/)
-* [e27's db](http://e27.co/db/)
-* [AngelList Singapore](https://angel.co/singapore)
-* [represent.sg](http://represent.sg/)
-* [designers & studios](http://bundlr.com/b/singapore-based-designers-studios)
-* [webuild.sg](http://webuild.sg/)
-* [engineers.sg](https://www.youtube.com/playlist?list=PLECEw2eFfW7hYMucZmsrryV_9nIc485P1)
+* [BooksActually](http://booksactually.com/)
+* [Booktique](https://www.facebook.com/WriterBooktique/)
+* [Wardah Books](https://www.facebook.com/wardahbooks/)
+* [Books & Beer](https://www.facebook.com/booksandbeersingapore/)
+* [Basheer Graphic Books](https://www.facebook.com/BasheerGraphic)
+* [草根書室 (Grassroots Book Room)](https://www.facebook.com/grassrootsbookroom)
+* [Woods in the Books](http://www.woodsinthebooks.sg/)
+
+### poetry & literature
+
+* [poetry.sg](http://poetry.sg)
+* [Singapore Poetry](http://singaporepoetry.com/)
+* [Quarterly Literary Review Singapore](http://www.qlrs.com/default.asp)
+
+### causes
+
+* [Kampung Senang](http://kampungsenang.org/)
+* [World Toilet Organization](http://worldtoilet.org/)
+* [Ground-up Initiative](http://groundupinitiative.org/)
+* [Give.asia](http://give.asia)
+* [SG Cares](http://www.journeys.com.sg/singaporewalks/index.asp)
+
+### stories
+
+* [Singaporean of the day](https://vimeo.com/singaporeanoftheday)
+* [Humans of Singapore](https://instagram.com/humansofsingapore/)
+* [People of Singapore](https://www.facebook.com/thepeopleofsingapore)
+* [weare.sg](http://weare.sg)
+* [gobeyond.sg](http://gobeyond.sg/)
+
+### culture & history
+
+* [rediscover.sg](http://rediscover.sg/)
+* [visualarchive.sg](http://visualarchive.sg/)
+* [within.sg](http://within.sg)
+* [Archiwalks](http://www.archiwalks.com/) 
+* [youth.sg](https://www.youth.sg/)
+* [Geylang Adventures](http://www.geylangadventures.com/)
+
+### education
+
+* [Open Lectures](http://www.openlectures.org/)
+
+### politics
+
+* [Inconvenient Questions](http:// Inconvenient Questions)
+* [dialectic.sg](http://dialectic.sg)
+* [Singapore Policy Journal ](http://singaporepolicyjournal.com/)
+
+### tech
+
+* [webuild.sg](http://webuild.sg)
+* [walkabout.sg](http://www.walkabout.sg/)
+* [Angellist Singapore](https://angel.co/singapore)
+* [engineers.sg](http://engineers.sg)
+* [webuild’s lists of developer, designer, maker related stuff in Singapore](https://github.com/webuildsg/lists)
 
 ### spaces
-* [blk71](http://www2.blk71.com/)
-* [hackerspace](http://hackerspace.sg/)
-* [Smart Space](http://smartspace.sg/)
-* [Silicon Straits](https://www.facebook.com/siliconstraits)
-* [The Hub](http://singapore.impacthub.net/)
 
-### media
-* [e27](http://e27.sg)
-* [Young Upstarts](http://www.youngupstarts.com/)
-* [techinasia](http://www.techinasia.com/)
+* [The definitive map of co-working spaces in Singapore](https://www.techinasia.com/definitive-map-coworking-spaces-singapore/)
+* [hackerspace.sg](http://hackerspace.sg)
+* [Blk71](http://blk71.com)
 
-### influencers
-* [Meng Wong](http://twitter.com/mengwong)
-* [Adrianna Tan](http://twitter.com/skinnylatte)
-* [Pat Law](https://twitter.com/patlaw)
-* [Mr Brown](https://twitter.com/mrbrown)
-* [James Chan](https://twitter.com/m0t0chan)
+### eat & drink
+
+* [findbeers.sg](http://findbeers.sg)
+* [Ladyironchef](http://www.ladyironchef.com/)
+

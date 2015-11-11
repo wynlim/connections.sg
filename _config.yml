@@ -1,5 +1,4 @@
 name: Connections dot sg
 markdown: redcarpet
-pygments: true
-exclude: [less, config.codekit, _site]
-baseurl: /connections.sg
+exclude: [config.codekit]
+permalink: /:categories/:title/

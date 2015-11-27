@@ -31,6 +31,7 @@ category: index
 * [Ground-up Initiative](http://groundupinitiative.org/)
 * [Give.asia](http://give.asia)
 * [SG Cares](http://www.journeys.com.sg/singaporewalks/index.asp)
+* [Over the rainbow](http://overtherainbow.sg/)
 
 ### stories
 
@@ -39,6 +40,7 @@ category: index
 * [People of Singapore](https://www.facebook.com/thepeopleofsingapore)
 * [weare.sg](http://weare.sg)
 * [gobeyond.sg](http://gobeyond.sg/)
+* [Singapore Memory Project](singaporememory.sg)
 
 ### culture & history
 
@@ -58,6 +60,7 @@ category: index
 * [Inconvenient Questions](http:// Inconvenient Questions)
 * [dialectic.sg](http://dialectic.sg)
 * [Singapore Policy Journal ](http://singaporepolicyjournal.com/)
+* [quad.sg](http://quad.sg)
 
 ### tech
 
@@ -77,4 +80,15 @@ category: index
 
 * [findbeers.sg](http://findbeers.sg)
 * [Ladyironchef](http://www.ladyironchef.com/)
+
+### publications 
+* [kopiwrite](http://thekopiwrite.com/)
+
+Social enterprises
+
+* [Adrenalin](http://adrenalin.com.sg/)
+* [Bettr Barista](http://www.bettrbarista.com/)
+* [The Thought Collective](http://www.thethoughtcollective.com.sg/)
+
+
 

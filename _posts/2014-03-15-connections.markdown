@@ -10,7 +10,7 @@ category: index
 * [the history list](/lists/history)
 
 ### stuff to do
-* [The Beach: be part of awesome projects](http://http://beach.do/)
+* [The Beach: be part of awesome projects](http://beach.do/)
 * [Fictive Fingers](https://www.facebook.com/fictivefingers/)
 * [The Letter J Supply](https://www.facebook.com/Theletterjsupply/)
 

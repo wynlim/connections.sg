@@ -28,8 +28,8 @@ h1, h2, h3{
 }
 
 h1{
-	margin-bottom: 55px;
 	font-size: 26px;
+	margin: 0.25em 0;
 }
 
 a{
@@ -47,9 +47,16 @@ a{
 
 .page-content{
 
-	h1{
-		font-size: 26px;
+	margin-top: 55px;
+
+	h2 {
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-family: $sans;
+	margin-bottom: 30px;
 	}
+
 	h3{
 		font-size: 22px;
 		margin: 0px 0 15px 0;

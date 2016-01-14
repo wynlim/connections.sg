@@ -1,0 +1,34 @@
+---
+layout: list
+title: history
+categories: lists
+---
+
+### books
+* [A History of Modern Singapore](http://nuspress.nus.edu.sg/products/a-history-of-modern-singapore-1819-2005): Covers the colonial era to the present (1819-2005), but is a solid piece of historical work and provides a great foundation to understand Singapore.
+
+* Neil Humphrey’s [Complete Notes](http://neilhumphreys.net/complete-notes-from-singapore), [Return to a Sexy Island](http://neilhumphreys.net/return-to-a-sexy-island), and [Saving a Sexier Island](http://neilhumphreys.net/saving-a-sexier-island): Delightfully irreverent, but also a valuably refreshing look at Singapore through the eyes of a once-foreigner, and now very much integrated resident.
+
+* [The Art of Charlie Chan Hock Chye](http://shop.epigrambooks.sg/products/charlie-chan-hock-chye), Sonny Liew: Beautiful artwork, but also an innovative exploration of alternative expressions of Singaporean history. Could not have been done in any other format. 
+
+* [Imagining Singapore](http://www.fas.nus.edu.sg/ell/images/books/E7-Imagining-Singapore.jpg), eds. Ban Kah Choon, Anne Pakir, and Tong Chee Kiong: A bit dated now, but provides good background on how the conceptions we have of Singapore today were formed in the post-independence years.
+
+* [Our Gurkhas - Singapore Through Their Eyes](http://shop.epigrambooks.sg/products/our-gurkhas), Zainal Zakaria: The Gurkhas have become such a ubiquitous security presence in Singapore, but they’ve been here a long time and have many stories to tell. This book, an anthology of photos and anecdotes from retired Gurkhas, is a start.
+
+* [Food, Foodways and Foodscapes](http://www.worldscientific.com/worldscibooks/10.1142/9416): Culture, Community and Consumption in Post-Colonial Singapore, eds. Lily Kong & Vineeta Sinha: Recent and highly readable academic publication. It demonstrates how the food we consume, the ways in which we acquire and prepare it, the company we keep as we cook and eat, and our preferences and practices are all revealing of a larger economic, social, cultural and political world, both historically and in contemporary times.
+
+### apps
+* [The Awesome Adventures of the Cock-Eye Club](https://www.facebook.com/groups/776534459159487/): Being developed by Jonathan Lim ([Chestnuts](https://www.facebook.com/chestnuts.sg/)), Singapore’s first on-site treasure hunt game app. First edition will focus on explorations of Haw Par Villa
+
+### podcasts
+* [History of Singapore](http://thehistoryofsingapore.com/): Podcast by PJ Thum, Singaporean academic currently at Oxford. Provides in depth analysis of Singapore’s history, often apart from the “official” line that gets bandied about
+
+### people
+* [Zainal Zakaria](http://www.zakariazainal.com/): Photojournalist, with notable work on Little India and the Nepali community in SG
+
+### do
+* [Musuems](https://en.wikipedia.org/wiki/List_of_museums_in_Singapore)
+* [Heritage Trails by NHB](http://www.nhb.gov.sg/places/trails/overview)
+* [Queenstown Heritage Trails](http://www.queenstown.org.sg/heritage.html)
+
+– Original [source](https://docs.google.com/document/d/1w3nasBBQ_jgwfdySMZ9yfk7v0MT204vn2gIUna3y8As/edit), created by Shanzhi Thia, Jonathan Lim, Keith Ng and friends.

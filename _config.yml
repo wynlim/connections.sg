@@ -1,4 +1,4 @@
 name: Connections dot sg
-markdown: redcarpet
+markdown: kramdown
 exclude: [config.codekit]
 permalink: /:categories/:title/

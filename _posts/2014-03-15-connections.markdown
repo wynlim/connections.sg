@@ -7,6 +7,12 @@ category: index
 * [thelist.sg](http://thelist.sg)
 * [a-list.sg: Singapore's definitive arts and culture guide](http://a-list.sg/)
 * [groups & meetups: mostly tech for now](/lists/meetups)
+* [the history list](/lists/history)
+
+### stuff to do
+* [The Beach: be part of awesome projects](http://http://beach.do/)
+* [Fictive Fingers](https://www.facebook.com/fictivefingers/)
+* [The Letter J Supply](https://www.facebook.com/Theletterjsupply/)
 
 ### books
 
@@ -32,6 +38,7 @@ category: index
 * [Give.asia](http://give.asia)
 * [SG Cares](http://www.journeys.com.sg/singaporewalks/index.asp)
 * [Over the rainbow](http://overtherainbow.sg/)
+* [Home](https://www.facebook.com/wearehome/)
 
 ### stories
 
@@ -50,6 +57,8 @@ category: index
 * [Archiwalks](http://www.archiwalks.com/) 
 * [youth.sg](https://www.youth.sg/)
 * [Geylang Adventures](http://www.geylangadventures.com/)
+* [goingplacessingapore.sg](http://www.goingplacessingapore.sg/)
+* [Alt Singapore](https://www.facebook.com/altsingapore/)
 
 ### education
 
@@ -57,7 +66,7 @@ category: index
 
 ### politics
 
-* [Inconvenient Questions](http:// Inconvenient Questions)
+* [Inconvenient Questions](http://www.inconvenientquestions.sg/)
 * [dialectic.sg](http://dialectic.sg)
 * [Singapore Policy Journal ](http://singaporepolicyjournal.com/)
 * [quad.sg](http://quad.sg)
@@ -84,11 +93,17 @@ category: index
 ### publications 
 * [kopiwrite](http://thekopiwrite.com/)
 
-Social enterprises
+### Social enterprises
 
 * [Adrenalin](http://adrenalin.com.sg/)
 * [Bettr Barista](http://www.bettrbarista.com/)
 * [The Thought Collective](http://www.thethoughtcollective.com.sg/)
+* [Open Farm Community](http://www.openfarmcommunity.com/)
+* [Sustainable Living Lab](http://www.sl2square.org/)
+
+### Creative enterprises
+* [Shophouse & Co](http://www.shophouseandco.com/)
+* [Neighborgoods](http://www.neighbourgoods.sg/)
 
 
 

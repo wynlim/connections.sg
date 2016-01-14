@@ -1,9 +1,9 @@
 ---
-layout: connections
+layout: list
 title: meetups
 categories: lists
 ---
-### groups &amp; meetups
+### tech
 * [Agile & DevOps SG](https://www.facebook.com/groups/agiledevopssg/)
 * [Agile Singapore](http://www.meetup.com/Agile-Singapore/)
 * [Arduino Community Singapore](https://www.facebook.com/groups/arduinosg/)

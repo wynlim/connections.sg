@@ -71,14 +71,6 @@ category: index
 * [Singapore Policy Journal ](http://singaporepolicyjournal.com/)
 * [quad.sg](http://quad.sg)
 
-### tech
-
-* [webuild.sg](http://webuild.sg)
-* [walkabout.sg](http://www.walkabout.sg/)
-* [Angellist Singapore](https://angel.co/singapore)
-* [engineers.sg](http://engineers.sg)
-* [webuild’s lists of developer, designer, maker related stuff in Singapore](https://github.com/webuildsg/lists)
-
 ### spaces
 
 * [The definitive map of co-working spaces in Singapore](https://www.techinasia.com/definitive-map-coworking-spaces-singapore/)
@@ -89,11 +81,12 @@ category: index
 
 * [findbeers.sg](http://findbeers.sg)
 * [Ladyironchef](http://www.ladyironchef.com/)
+* [Amazing food race](https://gametize.com/game/foodrace)
 
 ### publications 
 * [kopiwrite](http://thekopiwrite.com/)
 
-### Social enterprises
+### social enterprises
 
 * [Adrenalin](http://adrenalin.com.sg/)
 * [Bettr Barista](http://www.bettrbarista.com/)
@@ -101,9 +94,20 @@ category: index
 * [Open Farm Community](http://www.openfarmcommunity.com/)
 * [Sustainable Living Lab](http://www.sl2square.org/)
 
-### Creative enterprises
+### creative enterprises
 * [Shophouse & Co](http://www.shophouseandco.com/)
 * [Neighborgoods](http://www.neighbourgoods.sg/)
+* [studio juju](http://studio-juju.com/)
+* [&larry](http://www.andlarry.com/)
+* [Stolen](http://www.stolenstolen.com/)
+
+### tech
+
+* [webuild.sg](http://webuild.sg)
+* [walkabout.sg](http://www.walkabout.sg/)
+* [Angellist Singapore](https://angel.co/singapore)
+* [engineers.sg](http://engineers.sg)
+* [webuild’s lists of developer, designer, maker related stuff in Singapore](https://github.com/webuildsg/lists)
 
 
 

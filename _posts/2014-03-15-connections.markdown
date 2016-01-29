@@ -6,13 +6,14 @@ category: index
 
 * [thelist.sg](http://thelist.sg)
 * [a-list.sg: Singapore's definitive arts and culture guide](http://a-list.sg/)
-* [groups & meetups: mostly tech for now](/lists/meetups)
 * [the history list](/lists/history)
 
 ### stuff to do
 * [The Beach: be part of awesome projects](http://beach.do/)
 * [Fictive Fingers](https://www.facebook.com/fictivefingers/)
 * [The Letter J Supply](https://www.facebook.com/Theletterjsupply/)
+* [Ministry of Adventure](https://www.facebook.com/ministryofadventure)
+* [groups & meetups: mostly tech for now](/lists/meetups)
 
 ### books
 
@@ -30,6 +31,9 @@ category: index
 * [Singapore Poetry](http://singaporepoetry.com/)
 * [Quarterly Literary Review Singapore](http://www.qlrs.com/default.asp)
 
+### art
+* [The Artling](http://theartling.com/)
+
 ### causes
 
 * [Kampung Senang](http://kampungsenang.org/)
@@ -39,6 +43,7 @@ category: index
 * [SG Cares](http://www.journeys.com.sg/singaporewalks/index.asp)
 * [Over the rainbow](http://overtherainbow.sg/)
 * [Home](https://www.facebook.com/wearehome/)
+* [Love Macritchie](https://lovemacritchie.wordpress.com/)
 
 ### stories
 

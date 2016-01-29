@@ -3,6 +3,13 @@ layout: list
 title: meetups
 categories: lists
 ---
+### craft
+* [Popin craft](https://www.facebook.com/POPINCraft/)
+
+### nature
+* [Herpetological Society of Singapore](https://www.facebook.com/herpsocsg/)
+* [BES Drongos](https://www.facebook.com/BESDrongos/)
+
 ### tech
 * [Agile & DevOps SG](https://www.facebook.com/groups/agiledevopssg/)
 * [Agile Singapore](http://www.meetup.com/Agile-Singapore/)

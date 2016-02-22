@@ -7,6 +7,7 @@ category: index
 * [thelist.sg](http://thelist.sg)
 * [a-list.sg: Singapore's definitive arts and culture guide](http://a-list.sg/)
 * [the history list](/lists/history)
+* [handbook to Singapore by rubysg](https://github.com/rubysg/singapore)
 
 ### stuff to do
 * [The Beach: be part of awesome projects](http://beach.do/)
@@ -33,6 +34,7 @@ category: index
 
 ### art
 * [The Artling](http://theartling.com/)
+* [tribute.sg](http://tribute.sg)
 
 ### causes
 
@@ -52,7 +54,10 @@ category: index
 * [People of Singapore](https://www.facebook.com/thepeopleofsingapore)
 * [weare.sg](http://weare.sg)
 * [gobeyond.sg](http://gobeyond.sg/)
-* [Singapore Memory Project](singaporememory.sg)
+* [Singapore Memory Project](http://singaporememory.sg)
+* [Singapore Women's Hall of Fame](http://swhf.sg/)
+* [For the win](http://ftw.sg/)
+* [Our Better World](http://www.ourbetterworld.org/)
 
 ### culture & history
 
@@ -64,6 +69,10 @@ category: index
 * [Geylang Adventures](http://www.geylangadventures.com/)
 * [goingplacessingapore.sg](http://www.goingplacessingapore.sg/)
 * [Alt Singapore](https://www.facebook.com/altsingapore/)
+
+### nature
+* [Animal and Plants of Singapore](http://nathist.science.nus.edu.sg/)
+* [10 Uncharted Nature Trails](http://www.ladyironchef.com/2016/01/singapore-best-nature-trails/)
 
 ### education
 
@@ -105,6 +114,7 @@ category: index
 * [studio juju](http://studio-juju.com/)
 * [&larry](http://www.andlarry.com/)
 * [Stolen](http://www.stolenstolen.com/)
+* [Big Red Button](http://bigredbutton.com.sg/)
 
 ### tech
 

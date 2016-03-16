@@ -58,6 +58,7 @@ category: index
 * [Singapore Women's Hall of Fame](http://swhf.sg/)
 * [For the win](http://ftw.sg/)
 * [Our Better World](http://www.ourbetterworld.org/)
+* [anotherbeautifulstory](https://vimeo.com/anotherbeautifulstory)
 
 ### culture & history
 
@@ -77,6 +78,7 @@ category: index
 ### education
 
 * [Open Lectures](http://www.openlectures.org/)
+* [School Asia](http://schoolasia.org/)
 
 ### politics
 
@@ -115,6 +117,8 @@ category: index
 * [&larry](http://www.andlarry.com/)
 * [Stolen](http://www.stolenstolen.com/)
 * [Big Red Button](http://bigredbutton.com.sg/)
+* [The Gentlemen's Press](https://www.facebook.com/thegentlemenspress/)
+* [dddots](http://www.dddots.com/)
 
 ### tech
 

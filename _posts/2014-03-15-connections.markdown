@@ -32,9 +32,10 @@ category: index
 * [Singapore Poetry](http://singaporepoetry.com/)
 * [Quarterly Literary Review Singapore](http://www.qlrs.com/default.asp)
 
-### art
+### art & design
 * [The Artling](http://theartling.com/)
 * [tribute.sg](http://tribute.sg)
+* [graphic.sg](https://graphic.sg/)
 
 ### causes
 
@@ -46,6 +47,7 @@ category: index
 * [Over the rainbow](http://overtherainbow.sg/)
 * [Home](https://www.facebook.com/wearehome/)
 * [Love Macritchie](https://lovemacritchie.wordpress.com/)
+* [Enabling Village](http://enablingvillage.sg/)
 
 ### stories
 
@@ -70,6 +72,7 @@ category: index
 * [Geylang Adventures](http://www.geylangadventures.com/)
 * [goingplacessingapore.sg](http://www.goingplacessingapore.sg/)
 * [Alt Singapore](https://www.facebook.com/altsingapore/)
+* [My Community](http://www.mycommunity.org.sg/)
 
 ### nature
 * [Animal and Plants of Singapore](http://nathist.science.nus.edu.sg/)

@@ -48,6 +48,8 @@ category: index
 * [Home](https://www.facebook.com/wearehome/)
 * [Love Macritchie](https://lovemacritchie.wordpress.com/)
 * [Enabling Village](http://enablingvillage.sg/)
+* [Foodscape Collective](https://www.facebook.com/FoodscapeCollective/)
+* [Cycling Without Age](http://cyclingwithoutage.sg/)
 
 ### stories
 
@@ -73,6 +75,8 @@ category: index
 * [goingplacessingapore.sg](http://www.goingplacessingapore.sg/)
 * [Alt Singapore](https://www.facebook.com/altsingapore/)
 * [My Community](http://www.mycommunity.org.sg/)
+* [roots.sg](https://roots.sg/)
+* [ghetto singapore](http://www.ghettosingapore.com/category/singapore/heritage-places/)
 
 ### nature
 * [Animal and Plants of Singapore](http://nathist.science.nus.edu.sg/)
@@ -89,6 +93,7 @@ category: index
 * [dialectic.sg](http://dialectic.sg)
 * [Singapore Policy Journal ](http://singaporepolicyjournal.com/)
 * [quad.sg](http://quad.sg)
+* [A Visual Earpiece Into The Singapore Parliamentary Debates](https://s3-ap-southeast-1.amazonaws.com/hansardbrowser/index.html)
 
 ### spaces
 

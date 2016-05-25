@@ -7,6 +7,7 @@ category: index
 * [thelist.sg](http://thelist.sg)
 * [a-list.sg: Singapore's definitive arts and culture guide](http://a-list.sg/)
 * [the history list](/lists/history)
+* [the civic history list](/lists/civic-history)
 * [handbook to Singapore by rubysg](https://github.com/rubysg/singapore)
 
 ### stuff to do

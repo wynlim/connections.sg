@@ -15,6 +15,7 @@ category: index
 * [The Letter J Supply](https://www.facebook.com/Theletterjsupply/)
 * [Ministry of Adventure](https://www.facebook.com/ministryofadventure)
 * [groups & meetups: mostly tech for now](/lists/meetups)
+* [#LepakInSG: environmental events and activities](https://lepakinsg.wordpress.com/)
 
 ### books
 
@@ -50,6 +51,8 @@ category: index
 * [Enabling Village](http://enablingvillage.sg/)
 * [Foodscape Collective](https://www.facebook.com/FoodscapeCollective/)
 * [Cycling Without Age](http://cyclingwithoutage.sg/)
+* [Project Starfish](https://www.facebook.com/projectstarfishhome/)
+* [Dignity Kitchen](http://dignitykitchen.sg/)
 
 ### stories
 

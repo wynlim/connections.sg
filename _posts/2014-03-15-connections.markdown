@@ -41,6 +41,7 @@ category: index
 
 ### causes
 
+* [giving.sg](http://giving.sg/)
 * [Kampung Senang](http://kampungsenang.org/)
 * [World Toilet Organization](http://worldtoilet.org/)
 * [Ground-up Initiative](http://groundupinitiative.org/)
@@ -81,6 +82,8 @@ category: index
 * [My Community](http://www.mycommunity.org.sg/)
 * [roots.sg](https://roots.sg/)
 * [ghetto singapore](http://www.ghettosingapore.com/category/singapore/heritage-places/)
+* [GIC history](http://gichistory.gic.com.sg/)
+* [Your Familiar Stranger](http://www.yourfamiliarstranger.org/)
 
 ### nature
 * [Animal and Plants of Singapore](http://nathist.science.nus.edu.sg/)
@@ -139,6 +142,6 @@ category: index
 * [Angellist Singapore](https://angel.co/singapore)
 * [engineers.sg](http://engineers.sg)
 * [webuild’s lists of developer, designer, maker related stuff in Singapore](https://github.com/webuildsg/lists)
-
-
+* [viz.sg](http://viz.sg)
+* [data.gov.sg](http://data.gov.sg)
 

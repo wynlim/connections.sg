@@ -84,6 +84,7 @@ category: index
 * [ghetto singapore](http://www.ghettosingapore.com/category/singapore/heritage-places/)
 * [GIC history](http://gichistory.gic.com.sg/)
 * [Your Familiar Stranger](http://www.yourfamiliarstranger.org/)
+* [Remember Singapore](https://remembersingapore.org)
 
 ### nature
 * [Animal and Plants of Singapore](http://nathist.science.nus.edu.sg/)
